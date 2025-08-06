@@ -1,0 +1,36 @@
+
+
+##############   Définition
+
+<dl>
+	<dt>Premier terme</dt>						
+		<dd>Définition du premier terme</dd>
+			<dt>Second terme</dt>
+		<dd>Définition du second terme</dd>
+		<dd>Informations complémentaires</dd>
+</dl>
+
+
+###############  Liste
+				
+<ul>
+	<li> mon premier </li>
+	<li> mon deuxième  </li>
+</ul>
+
+##############  Tableau
+
+<table>
+  <tr>
+    <th>  1  </th>
+    <th> 2 </th>
+  </tr>
+  <tr >
+    <td>3 </td>
+    <td>4 </td>
+  </tr>
+</table>
+
+###############   Lien Hypertexte
+
+<a href="blabla.hypertexte"> Nom du lien </a>
